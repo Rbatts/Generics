@@ -1,0 +1,7 @@
+C:\Users\Rich\source\repos\GenericsTask\GenericsTask\bin\Debug\GenericsTask.exe.config
+C:\Users\Rich\source\repos\GenericsTask\GenericsTask\bin\Debug\GenericsTask.exe
+C:\Users\Rich\source\repos\GenericsTask\GenericsTask\bin\Debug\GenericsTask.pdb
+C:\Users\Rich\source\repos\GenericsTask\GenericsTask\obj\Debug\GenericsTask.csprojResolveAssemblyReference.cache
+C:\Users\Rich\source\repos\GenericsTask\GenericsTask\obj\Debug\GenericsTask.csproj.CoreCompileInputs.cache
+C:\Users\Rich\source\repos\GenericsTask\GenericsTask\obj\Debug\GenericsTask.exe
+C:\Users\Rich\source\repos\GenericsTask\GenericsTask\obj\Debug\GenericsTask.pdb
