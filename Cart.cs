@@ -14,6 +14,5 @@ namespace GenericsTask
         {
             return boxes.Sum(box => box.Count());
         }
-
     }
 }

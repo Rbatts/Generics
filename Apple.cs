@@ -9,6 +9,13 @@ namespace GenericsTask
 {
     public class Apple : ICountable
     {
+        public AppleColour Colour;
+
+        public enum AppleColour
+        {
+            RedApple = 1,
+            GreenApple = 2
+        };
 
         public int Count()
         {

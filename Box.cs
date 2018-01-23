@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace GenericsTask
 {
-   
+
     public class Box<T> : ICountable
     {
         List<T> Items = new List<T>();
@@ -27,5 +27,4 @@ namespace GenericsTask
             return Items.Count();
         }
     }
-
 }
